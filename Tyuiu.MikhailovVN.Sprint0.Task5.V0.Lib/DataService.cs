@@ -6,7 +6,7 @@ namespace Tyuiu.MikhailovVN.Sprint0.Task5.V0.Lib
     {
         public static int Additional(int a, int b)
             { return a + b; }
-        public static int Substraction(int a, int b)
+        public static int Subtraction(int a, int b)
             { return a - b; }
         public static int Multiplication(int a, int b)
             { return a * b; }

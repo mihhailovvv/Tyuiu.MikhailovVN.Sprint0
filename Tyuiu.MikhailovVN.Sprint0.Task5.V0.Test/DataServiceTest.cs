@@ -10,9 +10,9 @@ namespace Tyuiu.MikhailovVN.Sprint0.Task5.V0.Test
         {
             Assert.AreEqual(10, DataService.Additional(5, 5));
         }
-        public void CheckedSubstractionVolid()
+        public void CheckedSubtractionVolid()
         {
-            Assert.AreEqual(5, DataService.Substraction(10, 5));
+            Assert.AreEqual(5, DataService.Subtraction(10, 5));
         }
         public void CheckedMultiplication()
         {
